@@ -1,4 +1,8 @@
-# NgGanttScheduleTimelineCalendar
+# Angular gantt-schedule-timeline-calendar usage example
+
+**TIP**: enable `allowSyntheticDefaultImports` in your config to get rid of initial errors caused by dayjs package  https://github.com/neuronetio/ng-gantt-schedule-timeline-calendar/blob/master/tsconfig.json#L11
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
